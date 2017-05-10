@@ -2,7 +2,7 @@
 
 default: &default
   enabled: true
-  host: 0.0.0.0
+  host: 192.168.0.103
   port: 8080
 
 development:
