@@ -13,4 +13,4 @@
 //= require rails-ujs
 //= require turbolinks
 //= require_tree .
-//= require material-design-lite
+//= require material-components-web

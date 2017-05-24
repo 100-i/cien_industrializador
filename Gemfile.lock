@@ -1,9 +1,10 @@
 GIT
   remote: https://github.com/rails/sass-rails.git
-  revision: eafddf6eeecc7e8b3fb929e406cb64e401b759e3
+  revision: dd04a6a6d19cbd7cfd2f9d304a445444e0b88a19
+  branch: master
   specs:
     sass-rails (6.0.0.beta1)
-      railties (>= 4.0.0, < 5.1)
+      railties (>= 4.0.0, < 6)
       sass (~> 3.4)
       sprockets (~> 4.x)
       sprockets-rails (< 4.0)
